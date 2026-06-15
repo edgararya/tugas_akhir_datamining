@@ -1,0 +1,15 @@
+# Model files
+chili_model.pth
+
+# Dataset directories
+chili disease.v12i.multiclass/
+
+# Output images (optional, but ignored as per user request to only upload tugas_akhir.ipynb and latihan/)
+confusion_matrix.png
+hasil_test_upload.png
+kurva_belajar.png
+segmentasi_kmeans.png
+
+# Scripts (optional, but ignored as per user request)
+predict.py
+laporan_ilmiah.md
