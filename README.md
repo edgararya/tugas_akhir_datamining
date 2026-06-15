@@ -9,7 +9,7 @@ Proyek ini bertujuan untuk mengintegrasikan dua pendekatan data mining untuk det
 ## 📌 Tautan Repositori Hugging Face
 
 * 🤗 **Dataset**: [edgararya/chili_disease.v12i.multiclass (Hugging Face Datasets)](https://huggingface.co/datasets/edgararya/chili_disease.v12i.multiclass)
-* 🤗 **Model Weights (`.pth`)**: [edgararya/chili_model (Hugging Face Models)](https://huggingface.co/models/edgararya/chili_model)
+* 🤗 **Model Weights (`.pth`)**: [edgararya/chili_model (Hugging Face Models)](https://huggingface.co/edgararya/chili_model)
 
 ---
 
